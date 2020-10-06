@@ -1,25 +1,23 @@
 {
   "files": {
     "main.css": "/sula/static/css/main.22b8de4a.chunk.css",
-    "main.js": "/sula/static/js/main.d5ad9cc3.chunk.js",
-    "main.js.map": "/sula/static/js/main.d5ad9cc3.chunk.js.map",
+    "main.js": "/sula/static/js/main.3473dcb2.chunk.js",
+    "main.js.map": "/sula/static/js/main.3473dcb2.chunk.js.map",
     "runtime-main.js": "/sula/static/js/runtime-main.3a1b7025.js",
     "runtime-main.js.map": "/sula/static/js/runtime-main.3a1b7025.js.map",
-    "static/js/2.fd649605.chunk.js": "/sula/static/js/2.fd649605.chunk.js",
-    "static/js/2.fd649605.chunk.js.map": "/sula/static/js/2.fd649605.chunk.js.map",
+    "static/js/2.cb36cbf3.chunk.js": "/sula/static/js/2.cb36cbf3.chunk.js",
+    "static/js/2.cb36cbf3.chunk.js.map": "/sula/static/js/2.cb36cbf3.chunk.js.map",
     "index.html": "/sula/index.html",
-    "precache-manifest.db3693e929b56d3caf3037e8c5530f9d.js": "/sula/precache-manifest.db3693e929b56d3caf3037e8c5530f9d.js",
+    "precache-manifest.be3c70a2d5a05591266604f4d4f93eeb.js": "/sula/precache-manifest.be3c70a2d5a05591266604f4d4f93eeb.js",
     "service-worker.js": "/sula/service-worker.js",
     "static/css/main.22b8de4a.chunk.css.map": "/sula/static/css/main.22b8de4a.chunk.css.map",
-    "static/js/2.fd649605.chunk.js.LICENSE.txt": "/sula/static/js/2.fd649605.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/sula/static/media/logo.f4b99cca.png",
-    "static/media/logoFooter.png": "/sula/static/media/logoFooter.8daccb5d.png",
+    "static/js/2.cb36cbf3.chunk.js.LICENSE.txt": "/sula/static/js/2.cb36cbf3.chunk.js.LICENSE.txt",
     "static/media/App.css": "/sula/static/media/sertificate.a940ab03.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3a1b7025.js",
-    "static/js/2.fd649605.chunk.js",
+    "static/js/2.cb36cbf3.chunk.js",
     "static/css/main.22b8de4a.chunk.css",
-    "static/js/main.d5ad9cc3.chunk.js"
+    "static/js/main.3473dcb2.chunk.js"
   ]
 }
