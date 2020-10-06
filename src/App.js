@@ -9,7 +9,7 @@ const App = () => {
  
   
     return (
-    <BrowserRouter basename="/sula">
+    <BrowserRouter basename="/">
           <Route path="/" exact component={SulaApp} />
           <Route path="/admin" exact component={AdminPage} />
     </BrowserRouter>
