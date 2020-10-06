@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route } from 'react-router-dom';
+import { Route, BrowserRouter } from 'react-router-dom';
 
 import SulaApp from './components/SulaApp';
 import AdminPage from './components/AdminPage';
@@ -9,10 +9,10 @@ const App = () => {
  
   
     return (
-      <div>
+    <BrowserRouter basename="/sula">
           <Route path="/" exact component={SulaApp} />
           <Route path="/admin" exact component={AdminPage} />
-      </div>
+    </BrowserRouter>
   );
 }
 
