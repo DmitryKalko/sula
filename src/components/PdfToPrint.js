@@ -7,9 +7,8 @@ class PdfToPrint extends React.Component {
     render() {
         let { lastName, flagName, imgId } = this.props.selectedItem;
         let date = this.props.date;
-        
-        return (
 
+        return (
             <div className="pdf">
                 <h1 className='title'>Грамота Шляхтича</h1>
                 <img className="flagForPdf" src={imgUrl + +imgId + '.png'} alt="flagImage" />

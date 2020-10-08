@@ -6,10 +6,10 @@ import './App.css';
 
 const AdminPage = () => {
   return (
-   <div className='admin'>
-     <h1>Заявки на сертификаты</h1>
-     <Sertificates />
-  </div>
+    <div className='admin'>
+      <h1>Заявки на сертификаты</h1>
+      <Sertificates />
+    </div>
   )
 }
 

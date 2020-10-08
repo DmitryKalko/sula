@@ -54,7 +54,7 @@ class Sertificates extends React.Component {
     }
   }
   autoClearList = () => {
-    let {autoClearingStatus} = this.state;
+    let { autoClearingStatus } = this.state;
     if (autoClearingStatus === false) {
       autoClearingStatus = true;
       localStorage.setItem("autoClearingStatus", JSON.stringify(autoClearingStatus));
