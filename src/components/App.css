@@ -6,7 +6,6 @@
 }
 #root{
   height: 100vh;
-  overflow: hidden;
 }
 body{
   background: linear-gradient(to right, #990000, #020002);
@@ -14,7 +13,7 @@ body{
 }
 .backgroundImage{
   position: absolute;
-  top: 0px;
+  top: 15px;
   right: 0px;
   z-index: 1;
 }
@@ -22,8 +21,8 @@ body{
   filter: grayscale(100%);
   opacity: 0.2;
   z-index:0;
-  width: 50vw;
-  height: 100vh;
+  width: 45vw;
+  height: 95vh;
 } 
 .container{
   width: 100vw;
@@ -69,17 +68,17 @@ body{
 .lastNames{
   margin: 20px 0 30px 10px;
   width: 45vw;
-  height: 60vh;
+  height: 65vh;
   font-size: 30px;
   text-align: center;
   color: #af8144;
   opacity: 1;
-  overflow: hidden;
+  overflow: scroll;
+  overflow-x: hidden;
 }
-.lastNames > ul{
-  overflow-y: auto;
-  max-height: 100%;
-  width: 100%;
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
 }
 .lastName{
   cursor: pointer;
