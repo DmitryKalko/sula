@@ -54,15 +54,15 @@ body{
   justify-content: space-between;
 }
 .imgUrl{
-  width: 300px;
-  height: 330px;
-  margin: 0 0 20px 0;
+  width: 270px;
+  height: 300px;
+  margin: 0 0 10px 0;
   box-shadow: 0 0 10px rgba(0,0,0,0.5); 
 }
 .lastNames{
   margin: 20px 0 30px 10px;
   width: 600px;
-  height: 70vh;
+  height: 60vh;
   font-size: 30px;
   text-align: center;
   color: #af8144;
@@ -82,10 +82,9 @@ body{
   flex-direction: column;
   justify-content: stretch;
   align-items: center;
-  margin-top: 20px;
   margin-right: 10px;
   width: 500px;
-  height: 70vh;
+  height: 60vh;
   font-size: 20px;
   text-align: center;
   color: #af8144;
@@ -114,7 +113,7 @@ body{
   margin: 0 20px 10px 20px;
 }
 .line{
-  width: 600px;
+  width: 45vw;
   size: 1px;
   color: #f8ebdb;
 }
@@ -194,7 +193,6 @@ body{
 /* настройка админки */
 .admin{
   height: 90vh;
-  width: 100vw;
 }
 .adminList{
   display: flex;
