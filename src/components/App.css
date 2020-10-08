@@ -61,7 +61,12 @@ body{
   text-align: center;
   color: #af8144;
   opacity: 1;
-  overflow: auto;
+  overflow: hidden;
+}
+.lastNames>ul{
+  overflow-y: auto;
+  max-height: 100%;
+  width: 100%;
 }
 .lastName{
   cursor: pointer;
