@@ -121,7 +121,7 @@ class SulaApp extends React.Component {
     const base = this.fillterBase();
 
     return (
-      <>
+      <div className="wrapper">
         <main>
           <div className="App">
             <div className="backgroundImage"><img src={logo} alt="logo" className="logo" /></div>
@@ -174,7 +174,7 @@ class SulaApp extends React.Component {
             <hr className="line" />
           </div>
         </footer>
-      </>
+      </div>
 
     );
   }

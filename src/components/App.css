@@ -27,6 +27,11 @@ body{
   z-index: 2;
   position: relative;
 }
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
 .inputField{
   margin-top: 50px;
   margin-left: 10px;
