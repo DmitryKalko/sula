@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sula/static/css/main.d0007028.chunk.css",
+    "main.css": "/sula/static/css/main.d31a3bcb.chunk.css",
     "main.js": "/sula/static/js/main.2d0643b5.chunk.js",
     "main.js.map": "/sula/static/js/main.2d0643b5.chunk.js.map",
     "runtime-main.js": "/sula/static/js/runtime-main.3a1b7025.js",
@@ -8,9 +8,9 @@
     "static/js/2.5c9b6f38.chunk.js": "/sula/static/js/2.5c9b6f38.chunk.js",
     "static/js/2.5c9b6f38.chunk.js.map": "/sula/static/js/2.5c9b6f38.chunk.js.map",
     "index.html": "/sula/index.html",
-    "precache-manifest.4fd110236aec481e739ac46856eb7b56.js": "/sula/precache-manifest.4fd110236aec481e739ac46856eb7b56.js",
+    "precache-manifest.101ccdd6ff1ebd2379845e2d9fe7bb95.js": "/sula/precache-manifest.101ccdd6ff1ebd2379845e2d9fe7bb95.js",
     "service-worker.js": "/sula/service-worker.js",
-    "static/css/main.d0007028.chunk.css.map": "/sula/static/css/main.d0007028.chunk.css.map",
+    "static/css/main.d31a3bcb.chunk.css.map": "/sula/static/css/main.d31a3bcb.chunk.css.map",
     "static/js/2.5c9b6f38.chunk.js.LICENSE.txt": "/sula/static/js/2.5c9b6f38.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/sula/static/media/logo.f4b99cca.png",
     "static/media/logoFooter.png": "/sula/static/media/logoFooter.8daccb5d.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.3a1b7025.js",
     "static/js/2.5c9b6f38.chunk.js",
-    "static/css/main.d0007028.chunk.css",
+    "static/css/main.d31a3bcb.chunk.css",
     "static/js/main.2d0643b5.chunk.js"
   ]
 }
