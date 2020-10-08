@@ -31,6 +31,7 @@ body{
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  height: 100vh;
 }
 .inputField{
   margin-top: 50px;
