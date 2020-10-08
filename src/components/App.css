@@ -4,6 +4,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+#root{
+  height: 100vh;
+}
 body{
   background: linear-gradient(to right, #990000, #020002);
   min-height: 100vh;
@@ -22,7 +25,7 @@ body{
   height: 710px;
 } 
 .container{
-  width: 1300px;
+  width: 100vw;
   margin: 0 auto;
   z-index: 2;
   position: relative;
@@ -32,11 +35,13 @@ body{
   flex-direction: column;
   justify-content: space-around;
   height: 100vh;
+  width: 100vw;
+  padding-left: 20px;
 }
 .inputField{
   margin-top: 50px;
   margin-left: 10px;
-  width: 600px;
+  width: 45vw;
   height: 50px;
   font-size: 20px;
   text-align: center;
@@ -61,7 +66,7 @@ body{
 }
 .lastNames{
   margin: 20px 0 30px 10px;
-  width: 600px;
+  width: 45vw;
   height: 60vh;
   font-size: 30px;
   text-align: center;
@@ -69,7 +74,7 @@ body{
   opacity: 1;
   overflow: hidden;
 }
-.lastNames>ul{
+.lastNames > ul{
   overflow-y: auto;
   max-height: 100%;
   width: 100%;
@@ -83,7 +88,7 @@ body{
   justify-content: stretch;
   align-items: center;
   margin-right: 10px;
-  width: 500px;
+  width: 45vw;
   height: 60vh;
   font-size: 20px;
   text-align: center;
